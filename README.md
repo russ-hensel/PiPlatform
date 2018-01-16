@@ -6,10 +6,14 @@ that has some pictures and directions.  Still working on them as well.
 
 Will publish on instructables in the near future.
 
-File guide
+File guide:
 
  assm_2.FCStd ----- my first messing around with an assembly file, just for fun right now.
+ 
  pi_as_step.FCStd ----- this is a file I grabed from the internet, I need attribution.  Was a step file imported into freecad then saved.
+ 
  PiPillar.FCStd ----- this is the platform and extensions. is not perfect, but I think usable.
+ 
  Spacers.FCStd ----- just some spaces to help bolt thing onto the platform, customize them for your use.  I am working on some more complicated ones that I plan to melt or force or both into place, later.
+ 
  uno_bracket.FCStd  ----- this is a bracket for mounting an arduino uno or perhaps a nano, a little sucker I got on ebay.
