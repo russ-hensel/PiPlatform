@@ -6,7 +6,8 @@ This is a 3D design for mounting a raspberry pi and for mounting additional modu
 Status:
 
 ``` 
-  Working pretty well, in process of adding some additional mounting options.  Have printed and used about 5 of these so far, pretty happy   with them.
+  Working pretty well, in process of adding some additional mounting options.  
+  Have printed and used about 5 of these so far, pretty happy with them.
 
 	Standard Disclaimer:
 		If you have more than a casual interest in this project you should contact me 
